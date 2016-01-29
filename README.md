@@ -132,4 +132,3 @@ hi,千里码的用户,欢迎来到github。
 * wptskybzy
 * KIDJourney
 * wp1994
-* jkq247
